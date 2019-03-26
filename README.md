@@ -72,17 +72,24 @@ Menambahkan setiap table dengan ENGINE=NDB
 sudo nano schema.php
 ~~~
 
-<img src="">
+<img src="https://github.com/TommyHalim/ETSBDTNDB/blob/master/screenshoot/schema.JPG">
 <br>
 
 <h3>f. Membuka `http://192.168.33.14/wordpress` pada browser</h3>
 Lakukan pendaftaran pada wordpress dan ikuti langkah penginstalan
 <br>
-<img src="">
+<img src="https://github.com/TommyHalim/ETSBDTNDB/blob/master/screenshoot/daftar%20wordpress.JPG">
 <br>
 
 <h2>3. Mengetes wordpress</h2>
 Membuat post baru dengan mematikan salah satu db (2/3)
+<img src="https://github.com/TommyHalim/ETSBDTNDB/blob/master/screenshoot/stop%20salah%20satu.JPG">
+<img src="https://github.com/TommyHalim/ETSBDTNDB/blob/master/screenshoot/post%201.JPG">
+<img src="https://github.com/TommyHalim/ETSBDTNDB/blob/master/screenshoot/tereplikasi.JPG">
+
 
 
 <h2>4. Testing dengan JMeter</h2>
+<img src="https://github.com/TommyHalim/ETSBDTNDB/blob/master/screenshoot/test%20thread%20group.JPG">
+<img src="https://github.com/TommyHalim/ETSBDTNDB/blob/master/screenshoot/graph%20result.JPG">
+<img src="https://github.com/TommyHalim/ETSBDTNDB/blob/master/screenshoot/table.JPG">
